@@ -1,6 +1,6 @@
 # ComfyUI 快速启动器
 
-![ComfyUI Quick Launcher](https://github.com/user-attachments/assets/bd203773-d4a3-41d4-b627-533cc7098920)
+<img src="https://github.com/user-attachments/assets/bd203773-d4a3-41d4-b627-533cc7098920" alt="ComfyUI Quick Launcher" width="50%">
 
 这是一个简易启动器，帮助您快速启动 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)。您可以直接从本项目的 [Releases](https://github.com/kk8bit/ComfyUI_Quick_Launcher/releases) 页面下载对应系统的可执行文件，支持 Windows 和 macOS 系统。
 
