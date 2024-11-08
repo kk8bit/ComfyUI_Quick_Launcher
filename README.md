@@ -1,6 +1,4 @@
-# ComfyUI Quick Launcher
-
-## [中文说明](./README.zh.md)
+# [中文说明](./README.zh.md) ComfyUI Quick Launcher
 
 ![ComfyUI Quick Launcher](https://github.com/user-attachments/assets/dc15a390-ae64-4ab0-80fb-b39dd1a2baf1)
  
