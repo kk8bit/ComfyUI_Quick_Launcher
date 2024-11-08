@@ -2,7 +2,7 @@
 
 [中文说明](./README.zh.md)
 
-![ComfyUI Quick Launcher](https://github.com/user-attachments/assets/1b9e38d4-ec67-4d8d-8f65-cb396107a3de)
+![ComfyUI Quick Launcher](https://github.com/user-attachments/assets/bd203773-d4a3-41d4-b627-533cc7098920)
 
 This is a simple launcher designed to help you quickly start [ComfyUI](https://github.com/comfyanonymous/ComfyUI). You can download the executable files directly for Windows and macOS from the [Releases](https://github.com/kk8bit/ComfyUI_Quick_Launcher/releases) page of this repository.
 
